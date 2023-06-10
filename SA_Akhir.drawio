@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T20:37:10.885Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="5flYk_CyXSnklOilZSWV" version="21.3.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-06-10T20:41:59.802Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="oknIoLlbhZEZWKTlnc8n" version="21.3.8" type="github" pages="5">
   <diagram id="m9Hev0bh2GZr9BVw1lgr" name="Halaman-4">
     <mxGraphModel dx="1939" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -483,6 +483,21 @@
         </mxCell>
         <mxCell id="a3GRy-e21CJLSKp_KVbD-29" value="C = 220,100&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;kill karena&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;a1 -- &amp;gt; a5 &amp;lt; 150" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="660" y="590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a3GRy-e21CJLSKp_KVbD-31" value="C = 160,230&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="915" y="595" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a3GRy-e21CJLSKp_KVbD-32" value="C = 125&amp;nbsp;&lt;br&gt;kill karena&lt;br&gt;C &amp;lt; 150" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="125" y="980" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a3GRy-e21CJLSKp_KVbD-33" value="C = 100&amp;nbsp;&lt;br&gt;kill karena&lt;br&gt;C &amp;lt; 150" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="285" y="980" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a3GRy-e21CJLSKp_KVbD-34" value="C =160" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="450" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a3GRy-e21CJLSKp_KVbD-36" value="C = 250" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="730" y="840" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
