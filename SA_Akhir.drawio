@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T19:17:34.713Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="ooUel0ppHwbq13Fcgp7A" version="21.3.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-10T19:22:52.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="OvDZfk2f3Ekdf7JFIXaN" version="21.3.8" type="github" pages="3">
   <diagram id="SUclW4FVFFgobb4Kxquy" name="Halaman-2">
     <mxGraphModel dx="1100" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -219,38 +219,68 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vh5AQVxOZIdrCNndps5o" name="Halaman-3">
-    <mxGraphModel dx="440" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="906" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jSlcAokzp7szLQd7GW8s-6" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;strokeWidth=4;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;exitX=0.017;exitY=0.943;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.935;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jSlcAokzp7szLQd7GW8s-1" target="jSlcAokzp7szLQd7GW8s-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="354" y="90" as="sourcePoint" />
+            <mxPoint x="604" y="90" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jSlcAokzp7szLQd7GW8s-7" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;strokeWidth=4;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jSlcAokzp7szLQd7GW8s-1" target="jSlcAokzp7szLQd7GW8s-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jSlcAokzp7szLQd7GW8s-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;[ P, S, D, K ]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=25;fontColor=default;align=center;" vertex="1" parent="1">
-          <mxGeometry x="354" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="604" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jSlcAokzp7szLQd7GW8s-2" value="&lt;ul style=&quot;font-size: 16px; border: 0px solid rgb(217, 217, 227); box-sizing: border-box; list-style: outside; margin: 0px; padding: 0px 0px 0px 1rem; display: flex; flex-direction: column; caret-color: rgb(55, 65, 81); color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;[ P, NS, D, K ]&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;" vertex="1" parent="1">
-          <mxGeometry x="160" y="120" width="130" height="60" as="geometry" />
+          <mxGeometry x="410" y="120" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jSlcAokzp7szLQd7GW8s-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;[ P, S, NS, K ]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;" vertex="1" parent="1">
-          <mxGeometry x="349" y="120" width="130" height="60" as="geometry" />
+        <mxCell id="jSlcAokzp7szLQd7GW8s-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;[ P, S, NS, K ]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#ffffff;align=center;fillColor=#a20025;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="599" y="120" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jSlcAokzp7szLQd7GW8s-4" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;strokeWidth=4;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jSlcAokzp7szLQd7GW8s-3" target="jSlcAokzp7szLQd7GW8s-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jSlcAokzp7szLQd7GW8s-8" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;strokeWidth=4;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;entryX=0.983;entryY=0.91;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.043;exitY=0.023;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jSlcAokzp7szLQd7GW8s-5" target="jSlcAokzp7szLQd7GW8s-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="120" as="sourcePoint" />
-            <mxPoint x="470" y="90" as="targetPoint" />
+            <mxPoint x="780" y="120" as="sourcePoint" />
+            <mxPoint x="720" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jSlcAokzp7szLQd7GW8s-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;[ P, S, D, NS ]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;" vertex="1" parent="1">
-          <mxGeometry x="520" y="120" width="130" height="60" as="geometry" />
+        <mxCell id="jSlcAokzp7szLQd7GW8s-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;[ P, S, D, NS ]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#ffffff;align=center;fillColor=#a20025;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="770" y="120" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSlcAokzp7szLQd7GW8s-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;strokeWidth=4;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jSlcAokzp7szLQd7GW8s-9" target="jSlcAokzp7szLQd7GW8s-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jSlcAokzp7szLQd7GW8s-9" value="&lt;ul style=&quot;font-size: 16px; border: 0px solid rgb(217, 217, 227); box-sizing: border-box; list-style: outside; margin: 0px; padding: 0px 0px 0px 1rem; display: flex; flex-direction: column; caret-color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;[ P, S, NS, NS ]&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#ffffff;align=left;fillColor=#a20025;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSlcAokzp7szLQd7GW8s-15" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;strokeWidth=4;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jSlcAokzp7szLQd7GW8s-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="179.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSlcAokzp7szLQd7GW8s-10" value="&lt;ul style=&quot;font-size: 16px; border: 0px solid rgb(217, 217, 227); box-sizing: border-box; list-style: outside; margin: 0px; padding: 0px 0px 0px 1rem; display: flex; flex-direction: column; caret-color: rgb(55, 65, 81); color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;[ P, NS, NS, K ]&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSlcAokzp7szLQd7GW8s-16" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;strokeWidth=4;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jSlcAokzp7szLQd7GW8s-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="179.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSlcAokzp7szLQd7GW8s-11" value="&lt;ul style=&quot;font-size: 16px; border: 0px solid rgb(217, 217, 227); box-sizing: border-box; list-style: outside; margin: 0px; padding: 0px 0px 0px 1rem; display: flex; flex-direction: column; caret-color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;[ NS, NS, D, K ]&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#ffffff;align=center;fillColor=#a20025;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSlcAokzp7szLQd7GW8s-17" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;strokeWidth=4;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jSlcAokzp7szLQd7GW8s-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="179.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSlcAokzp7szLQd7GW8s-12" value="&lt;ul style=&quot;font-size: 16px; border: 0px solid rgb(217, 217, 227); box-sizing: border-box; list-style: outside; margin: 0px; padding: 0px 0px 0px 1rem; display: flex; flex-direction: column; caret-color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;[ P, NS, D, NS ]&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;align=left;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="620" y="200" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
