@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T20:06:25.620Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="cXEU7ptNpAQvOrmO4As9" version="21.3.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-10T20:11:01.253Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="nV8xyU422Wxwh114gmNy" version="21.3.8" type="github" pages="4">
   <diagram id="vh5AQVxOZIdrCNndps5o" name="Halaman-3">
     <mxGraphModel dx="906" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -323,6 +323,30 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WYJriyc-B2CYgc_OSAAv-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;STAR&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WYJriyc-B2CYgc_OSAAv-2" value="YOUTUBE" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="550" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WYJriyc-B2CYgc_OSAAv-3" value="YAHO0" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="410" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WYJriyc-B2CYgc_OSAAv-4" value="FACEBOOK" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="270" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WYJriyc-B2CYgc_OSAAv-5" value="GOOGLE" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="130" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WYJriyc-B2CYgc_OSAAv-7" value="YOUTIBE" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="410" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WYJriyc-B2CYgc_OSAAv-8" value="FACEBOOK" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WYJriyc-B2CYgc_OSAAv-9" value="YOUTUBE" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="190" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
