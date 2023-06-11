@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T14:26:53.540Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="i66Mij3pl5LkxW5ICo2B" version="21.3.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-11T14:29:15.184Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="me3cdUiQaygZpE6scSyB" version="21.3.8" type="github" pages="6">
   <diagram id="2lL2gisHlahikFXHl5r-" name="Halaman-5">
     <mxGraphModel dx="856" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -503,7 +503,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LNNjXW7MUJp_ya8l7iZP" name="Halaman-6">
-    <mxGraphModel dx="1577" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2025" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -559,19 +559,19 @@
           <mxGeometry x="-80" y="840" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="amu3aCUbEeXVyBSg5otC-19" value="K = 200" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="850" y="298" width="60" height="30" as="geometry" />
+          <mxGeometry x="840" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="amu3aCUbEeXVyBSg5otC-20" value="facebook.com&lt;br&gt;w1 = 120&lt;br&gt;p1 = 12&lt;br&gt;d1 = 0, 10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="825" y="368" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="amu3aCUbEeXVyBSg5otC-21" value="google.com&lt;br&gt;w&lt;span style=&quot;white-space: pre;&quot;&gt;2&lt;/span&gt;&amp;nbsp;= 75&lt;br&gt;p2 = 12&lt;br&gt;d2 = 0,040" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="840" y="500" width="80" height="70" as="geometry" />
+          <mxGeometry x="830" y="480" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="amu3aCUbEeXVyBSg5otC-22" value="yahoo.com&lt;br&gt;w&lt;span style=&quot;white-space: pre;&quot;&gt;4&lt;/span&gt;&amp;nbsp;= 150&lt;br&gt;p4 = 5&lt;br&gt;d4 = 0,033" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="840" y="670" width="80" height="70" as="geometry" />
+          <mxGeometry x="830" y="720" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="amu3aCUbEeXVyBSg5otC-23" value="youtube.com&lt;br&gt;w&lt;span style=&quot;white-space: pre;&quot;&gt;3&lt;/span&gt;&amp;nbsp;= 175&lt;br&gt;p3 = 6&lt;br&gt;d3 = 0,034" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="835" y="590" width="90" height="70" as="geometry" />
+          <mxGeometry x="825" y="600" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
