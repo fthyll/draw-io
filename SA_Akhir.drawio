@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T14:07:59.257Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15" etag="J8j3FFyTB6tktsjkS3y-" version="22.1.11" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-19T14:09:06.757Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15" etag="yN-7Rk16N6Wp1PQN6BCs" version="22.1.11" type="github" pages="10">
   <diagram id="lJt0OQ0xtdoHGFoe9xAg" name="Halaman-8">
     <mxGraphModel dx="770" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -756,7 +756,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o8gqS-mJwZkSORRb2_KP" name="Halaman-10">
-    <mxGraphModel dx="770" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="906" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -769,12 +769,10 @@
         <mxCell id="ZLb9kJjGGYVK0jg4MqUQ-3" value="&lt;div style=&quot;text-align: start; background-color: rgb(247, 247, 247); font-family: monospace, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;    first = 0&lt;/div&gt;&lt;div&gt;    last = &lt;span style=&quot;color: rgb(121, 94, 38);&quot;&gt;len&lt;/span&gt;(item_list) - &lt;span style=&quot;color: rgb(17, 102, 68);&quot;&gt;1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;    found = &lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;False&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="160" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZLb9kJjGGYVK0jg4MqUQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b51a00;strokeWidth=2;" edge="1" parent="1" target="ZLb9kJjGGYVK0jg4MqUQ-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="310" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZLb9kJjGGYVK0jg4MqUQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="ZLb9kJjGGYVK0jg4MqUQ-4" target="ZLb9kJjGGYVK0jg4MqUQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLb9kJjGGYVK0jg4MqUQ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="ZLb9kJjGGYVK0jg4MqUQ-4" target="ZLb9kJjGGYVK0jg4MqUQ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZLb9kJjGGYVK0jg4MqUQ-4" value="while first &lt;= last and not found ?" style="strokeWidth=1;shape=mxgraph.flowchart.decision;fontSize=12;" vertex="1" parent="1">
