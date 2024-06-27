@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T03:27:40.529Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" etag="05Bv-hn_OpeNQenz2wez" version="24.6.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-06-27T03:49:23.322Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" etag="6rJ71kid8ACVBE06kCNb" version="24.6.3" type="github" pages="12">
   <diagram id="o8gqS-mJwZkSORRb2_KP" name="Halaman-10">
     <mxGraphModel dx="770" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -955,10 +955,10 @@
             <mxPoint x="330" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7IJv9vRCqTRZNiXHjlK5-15" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="7IJv9vRCqTRZNiXHjlK5-14">
+        <mxCell id="7IJv9vRCqTRZNiXHjlK5-15" value="Mauksan Email / Username&amp;nbsp;&lt;div&gt;dan Password&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="7IJv9vRCqTRZNiXHjlK5-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7IJv9vRCqTRZNiXHjlK5-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="7IJv9vRCqTRZNiXHjlK5-16" value="Validasi Kredensial" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="400" as="sourcePoint" />
             <mxPoint x="550" y="400" as="targetPoint" />
@@ -973,7 +973,7 @@
             <mxPoint x="340" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7IJv9vRCqTRZNiXHjlK5-19" value="Tampilan halaman Login" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="7IJv9vRCqTRZNiXHjlK5-18">
+        <mxCell id="7IJv9vRCqTRZNiXHjlK5-19" value="Kredensial Valid/&lt;div&gt;Invalid&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="7IJv9vRCqTRZNiXHjlK5-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7IJv9vRCqTRZNiXHjlK5-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -982,7 +982,7 @@
             <mxPoint x="160" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7IJv9vRCqTRZNiXHjlK5-21" value="Tampilan halaman Login" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="7IJv9vRCqTRZNiXHjlK5-20">
+        <mxCell id="7IJv9vRCqTRZNiXHjlK5-21" value="Kredensial Valid" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="7IJv9vRCqTRZNiXHjlK5-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7IJv9vRCqTRZNiXHjlK5-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -991,7 +991,7 @@
             <mxPoint x="340" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7IJv9vRCqTRZNiXHjlK5-23" value="Tampilan halaman Login" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="7IJv9vRCqTRZNiXHjlK5-22">
+        <mxCell id="7IJv9vRCqTRZNiXHjlK5-23" value="Tampilkan Halaman Utama" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="7IJv9vRCqTRZNiXHjlK5-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
